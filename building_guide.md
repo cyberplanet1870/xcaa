@@ -10,15 +10,17 @@ If you have any further questions, you can reach out to our lead developers on D
 
 ### Stadium Size Guide
 
-![image](https://github.com/cyberplanet1870/xcaa/assets/123999017/61fe20e1-c770-46bd-b408-b3db8a2756b4)
-![image](https://github.com/cyberplanet1870/xcaa/assets/123999017/aee1a752-b1f8-4112-92b8-18056991da60)
+![image](https://github.com/cyberplanet1870/xcaa/assets/123999017/3e81036b-d1b1-4745-b1b9-cd9e6dea69cd)
+![image](https://github.com/cyberplanet1870/xcaa/assets/123999017/630f39f3-e1fa-4fef-93c0-a71398e1f3dc)
+![image](https://github.com/cyberplanet1870/xcaa/assets/123999017/abf6748d-0f6e-43b0-9d06-12f098aca52a)
 
-- Total dimensions: 420x250
-- Play area dimensions: 420x208
-- Sideline dimensions: 174x21
+- Total dimensions: 430x260
+- Play area dimensions: 430x210
+- Sideline dimensions: 175x25
 
-It is preferred that you build the stadium entirely out of the 420x250 area if possible.
-However, you might have to cut the corners a bit which is okay so long as none of the area in green (2nd pic) is covered.
+It is preferred that you build the stadium entirely out of the 430x260 area if possible.
+Depending on the stadium, however, corners of the stands may have to encroach on the field area (such as in the OSU stadium above).
+As long as nothing is built in the "DO NOT BUILD" zone shown above, this is okay, but it should be kept to a minimum.
 
 ---
 
