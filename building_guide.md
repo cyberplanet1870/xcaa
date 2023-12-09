@@ -62,7 +62,7 @@ TODO:
 ---
 
 ### Field Style Guide
-TODO: mesh tutorial
+TODO: mesh making tutorial, RGB value for white grass logos
 
 ---
 
