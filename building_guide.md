@@ -15,6 +15,7 @@ If you have any further questions, you can reach out to our lead developers on D
 Total size: 423.6 x 249 studs
 
 Do not build anything on the areas within the field guide. You should also aim to give a little extra sideline room where possible, but not too much.
+Also, please do not move or the field guide from its inserted position (0, 0, 0).
 
 Here is an example of Ohio Stadium with and without the field guide.
 
