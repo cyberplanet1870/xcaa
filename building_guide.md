@@ -60,6 +60,12 @@ Place these anywhere within your stadium model.
 
 ---
 
+### Locker Rooms
+
+Coming soon
+
+---
+
 ### Mesh Guide
 TODO: mesh making tutorial, RGB value for white grass logos
 
