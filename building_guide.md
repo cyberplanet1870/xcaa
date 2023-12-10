@@ -30,7 +30,7 @@ Here is an example of Ohio Stadium with and without the field guide.
 We want to give you a lot of creative freedom on these stadiums, while still matching the style of our stadiums.
 These are some example stadiums from around the league. You can see how they are all slightly different yet use the similar brick style. 
 Notice how the seats are taller in some stadiums than others (range from 3-4 studs) but the same thickness in all (1 stud).
-Some stadiums have seated/non-seated areas (such as USC, images 3/4). 
+Some stadiums have seated/non-seated areas (such as USC, images 3 & 4). 
 Stands can also get steeper the further up in the stadium you go (image 3), however, seat size should remain the same in each section. 
 
 The main points for brick seats:
