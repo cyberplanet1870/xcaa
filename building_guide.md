@@ -18,8 +18,8 @@ Do not build anything on the areas within the field guide. You should also aim t
 
 Here is an example of Ohio Stadium with and without the field guide.
 
-![image](https://github.com/cyberplanet1870/xcaa/assets/123999017/71eec08e-e33e-4664-9791-08d2361fb6e1)
 ![image](https://github.com/cyberplanet1870/xcaa/assets/123999017/d584527c-8e22-4a38-b3b8-d49260e612ac)
+![image](https://github.com/cyberplanet1870/xcaa/assets/123999017/71eec08e-e33e-4664-9791-08d2361fb6e1)
 
 ---
 
