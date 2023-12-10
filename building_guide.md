@@ -19,7 +19,7 @@ If you have any further questions, you can reach out to our lead developers on D
 - Sideline dimensions: 175x25
 
 It is preferred that you build the stadium entirely out of the 430x260 area if possible.
-Depending on the stadium, however, corners of the stands may have to encroach on the field area (such as in the OSU stadium above).
+Depending on the stadium, however, corners of the stands may have to encroach on this area (such as in the OSU stadium above).
 As long as nothing is built in the "DO NOT BUILD" zone shown above, this is okay, but it should be kept to a minimum.
 
 ---
