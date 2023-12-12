@@ -1,4 +1,7 @@
 # Building Guide
+Written by litterbug1971
+
+---
 
 XCAA has a unique style of stadiums that we would like to keep consistent between all of our fields. This is a style guide for how we build our stadiums/fields.
 
