@@ -105,7 +105,7 @@ Once the count is at or below 5000, save your mesh as a .fbx using File->Export-
 
 ### ROBLOX Studio
 
-Now we need to import the mesh to studio. First, insert a MeshPart into workspace. Make sure it has Anchored=true and CanCollide=false. Also set its material to grass and color your mesh. In the Properties window, you will see the MeshId property. Click the file folder next to it and open up your .fbx file and click OK. If it prompts you to move/resize the mesh using location data, click no. You will see your mesh get imported as a thick ass shape:
+Now we need to import the mesh to studio. First, insert a MeshPart into workspace. Make sure it has Anchored=true and CanCollide=false. Also set its material to grass and color your mesh. If your mesh is white, set it to RGB (204, 215, 194) as this will match the lines on the field. In the Properties window, you will see the MeshId property. Click the file folder next to it and open up your .fbx file and click OK. If it prompts you to move/resize the mesh using location data, click no. You will see your mesh get imported as a thick ass shape:
 
 ![image](https://github.com/cyberplanet1870/xcaa/assets/123999017/af9f4eb1-dcbc-4a71-ad83-25e17818da4d)
 
