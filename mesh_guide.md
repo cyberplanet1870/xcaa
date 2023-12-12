@@ -114,7 +114,7 @@ Repeat for the rest of your layers. Once they are all imported, set the y-size o
 ![image](https://github.com/cyberplanet1870/xcaa/assets/123999017/e673fe37-408c-45f1-810c-282911016baf)
 ![image](https://github.com/cyberplanet1870/xcaa/assets/123999017/724aeaff-1a40-4fb8-93c8-5d33c10a4551)
 
-Now, if you are using the field size guide and don't have the actual field, you can move on at this point and someone else will size and position the meshes. However, if you have the field model you should resize/reposition the meshes now. Yard lines are at y=0.952, so the bottommost layer of your meshes should be at y=0.954. Be sure to set the thickness of the meshes back to 0.1 after you resize them.
+Now, if you are using the field size guide and don't have the actual field model, you can move on at this point and someone else will size and position the meshes. However, if you have the field model you should resize/reposition the meshes now. Yard lines are at y=0.952, so the bottommost layer of your meshes should be at y=0.954 (or y=0.952 if in endzone). Be sure to set the thickness of the meshes back to 0.1 after you resize them.
 
 ![image](https://github.com/cyberplanet1870/xcaa/assets/123999017/f66100b6-8879-4fac-92a9-04ace88ac2c0)
 
