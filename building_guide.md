@@ -81,6 +81,6 @@ Coming soon
 
 ---
 
-### Related Tutorials
+### Related Links
 
 - [Mesh Guide](https://github.com/cyberplanet1870/xcaa/blob/main/mesh_guide.md)
