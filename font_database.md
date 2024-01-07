@@ -138,14 +138,10 @@ AlabamaHelmet
 
 ![image](https://github.com/cyberplanet1870/xcaa/assets/123999017/f04dc38d-1c73-44b4-ad63-12eec7bca12d)
 
+---
 
+### Related Links
 
-
-
-
-
-
-
-
-
+- [Font Guide](https://github.com/cyberplanet1870/xcaa/blob/main/font_guide.md)
+- [Jersey Guide](https://github.com/cyberplanet1870/xcaa/blob/main/jersey_guide.md)
 
