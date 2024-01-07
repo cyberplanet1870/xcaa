@@ -10,6 +10,8 @@ We have lots of fonts already created. Before taking the time to make a new one,
 The names are exactly as they are saved in-game, so just copy and paste if you want to use it for a jersey. Some fonts don't have any outlines, some
 have multiple as shown below.
 
+Note: view this page in dark mode
+
 ---
 
 ### Alphabetical Fonts
