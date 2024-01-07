@@ -102,7 +102,7 @@ Font file:
 ### Helmet Fonts
 
 Some teams like Alabama have numbers on their helmets. These are a bit of a bitch since you have to upload 20 images (0-9 ones place and tens place), but you don't have to worry about resizing to 1024.
-Note that we currently do not support outlines on helmet fonts. You can still have a font with an outline, but the outline has to be on the same layer as the text and you won't be able to recolor it in-game.
+Note that we currently do not support outlines on helmet fonts using multiple layers. You can still have a font with an outline, but the outline has to be on the same layer as the text and you won't be able to recolor it in-game.
 
 First, create a square image (any size, I recommend using a large image though). Now, you are going to need to create a separate layer for each number 0-9 for both the tens place and ones place.
 Position the numbers so they are centered (horizontally at least, they can be a bit above center vertically) as this will be a decal that goes on the side of the helmet. 
