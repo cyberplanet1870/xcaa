@@ -13,6 +13,8 @@ Detailed guides on each type of font are below, but a couple main points that ap
 
 Also be sure to check out our [font database](https://github.com/cyberplanet1870/xcaa/blob/main/font_database.md) to see if a font has already been created before making one.
 
+Note: view this page in dark mode
+
 ---
 
 ### Numeric Fonts
