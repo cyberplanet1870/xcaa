@@ -109,7 +109,7 @@ Now we need to import the mesh to studio. First, insert a MeshPart into workspac
 
 ![image](https://github.com/cyberplanet1870/xcaa/assets/123999017/af9f4eb1-dcbc-4a71-ad83-25e17818da4d)
 
-Repeat for the rest of your layers. Once they are all imported, set the y-size of each to 0.1. Separate the layers by 0.002 studs in the y-direction and position them as needed. Here you can better see how the layering works. The green and white layers are not touching at all so they can be on the same y-level.
+Repeat for the rest of your layers. Once they are all imported, set the y-size of each to 0.1. Separate the layers by 0.002 studs in the y-direction and position them as needed. Here you can better see how the layering works. The green and white layers are not overlapping so they can be on the same y-level.
 
 ![image](https://github.com/cyberplanet1870/xcaa/assets/123999017/e673fe37-408c-45f1-810c-282911016baf)
 ![image](https://github.com/cyberplanet1870/xcaa/assets/123999017/724aeaff-1a40-4fb8-93c8-5d33c10a4551)
