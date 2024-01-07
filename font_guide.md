@@ -125,7 +125,9 @@ Set the ShowLeadingZeroes flag to true if you want single digit numbers to appea
 ---
 
 ### Applying fonts to jerseys
-Coming soon
+Coming soon. I hope to make a jersey creation place since there is currently no way to test the fonts unless you have full dev access.
+For now, if you make a font file just send it to me (litterbug1971) and I will insert it.
+
 note: mention the trick of using layer2 if you need a thicker font but no outline
 
 ---
