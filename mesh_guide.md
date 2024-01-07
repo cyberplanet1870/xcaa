@@ -71,7 +71,7 @@ Next, color each layer black. This will be necessary for the next step. Save eac
 
 ### Inkscape
 
-Import your black .png files to Inkscape. I will only show this for the blue layer but it works the same for everything. Click on the colored part of the imported image to select it. Then go to Path->Trace Bitmap and select a single scan using brightness cutoff. Finally, press apply.
+Import your black .png files to Inkscape. I will only show this for the blue layer but it works the same for the other layers. Click on the colored part of the imported image to select it. Then go to Path->Trace Bitmap and select a single scan using brightness cutoff. Finally, press apply.
 
 ![image](https://github.com/cyberplanet1870/xcaa/assets/123999017/f9e5e9b3-f413-4edf-b5e7-5861b46d0bc1)
 
