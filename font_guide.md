@@ -1,6 +1,8 @@
 # Font Guide
 Written by litterbug1971
 
+Note: view this page in dark mode
+
 ---
 
 We use custom fonts for jersey names and numbers. This is done by uploading decals of each font and storing a file with information about the font. 
@@ -12,8 +14,6 @@ Detailed guides on each type of font are below, but a couple main points that ap
 - Recommended to use Inkscape or Illustrator for font outlines instead of paint.net outline tool
 
 Also be sure to check out our [font database](https://github.com/cyberplanet1870/xcaa/blob/main/font_database.md) to see if a font has already been created before making one.
-
-Note: view this page in dark mode
 
 ---
 
