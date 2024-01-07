@@ -37,7 +37,7 @@ Now I am not a graphic designer by any means and you might have a better way of 
 
 </details>
 
-Next, crop the image to the size of the largest layer (outermost outline). Then, recolor each layer to RGB (255, 255, 255) so that they can be recolored in game.
+Next, crop the image to the size of the largest layer (outermost outline). Then, recolor each layer to RGB (255, 255, 255) and remove any backgrounds so that they can be recolored in game.
 You can do this using the [Object2Colour plugin](https://forums.getpaint.net/topic/22500-red-ochre-plug-in-pack-v9-updated-30th-july-2014/#entry358375) in paint.net.
 Finally, if your image is over 1024 pixels wide, you will need to resize it down to 1024. This is because Roblox automatically does this when uploading large images
 and if your image is any wider then the next part will not work. Your final images should look like this:
@@ -100,6 +100,27 @@ Font file:
 ---
 
 ### Helmet Fonts
+
+Some teams like Alabama have numbers on their helmets. These are a bit of a bitch since you have to upload 20 images (0-9 ones place and tens place), but you don't have to worry about resizing to 1024.
+Note that we currently do not support outlines on helmet fonts.
+
+First, create a square image (any size, I recommend using a large image though). Now, you are going to need to create a separate layer for each number 0-9 for both the tens place and ones place.
+Position the numbers so they are centered (horizontally at least, they can be a bit above center vertically) as this will be a decal that goes on the side of the helmet. 
+I recommend having a positional guide like the 2 black boxes shown below to ensure that your numbers stay centered. The [.pdn file](https://github.com/cyberplanet1870/xcaa/blob/main/assets/Alabama%20Helmet%20Font.pdn)
+for this font is available so you can better understand what I mean.
+
+![image](https://github.com/cyberplanet1870/xcaa/assets/123999017/2514553b-585e-4bc8-b63a-e7a02faf8043)
+
+Next, upload each layer as its own image. For example, the 21 above needs a separate image for the 2 (tens place) and 1 (ones place):
+
+![image](https://github.com/cyberplanet1870/xcaa/assets/123999017/88bb515b-8a81-4bfb-9888-4ef5f6de7097)
+
+![image](https://github.com/cyberplanet1870/xcaa/assets/123999017/c375a6cf-9320-4095-bf94-d6d1375df260)
+
+Next, open the HelmetFontTemplate from the [font templates](https://github.com/cyberplanet1870/xcaa/blob/main/assets/font_templates.rbxm). Just insert all of your image IDs into each table and name the file to whatever you want.
+Set the ShowLeadingZeroes flag to true if you want single digit numbers to appear with a zero in front of them ('9' becomes '09'). 
+
+![image](https://github.com/cyberplanet1870/xcaa/assets/123999017/1f33316c-f899-4b4d-9afa-44c8bc4a8776)
 
 ---
 
