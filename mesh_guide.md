@@ -119,3 +119,10 @@ Now, if you are using the field size guide and don't have the actual field model
 ![image](https://github.com/cyberplanet1870/xcaa/assets/123999017/f66100b6-8879-4fac-92a9-04ace88ac2c0)
 
 Now repeat for the rest of your logos and you are golden. We already have conference logos made, so don't worry about those.
+
+---
+
+### Related Links
+
+- [Building Guide](https://github.com/cyberplanet1870/xcaa/blob/main/building_guide.md)
+
