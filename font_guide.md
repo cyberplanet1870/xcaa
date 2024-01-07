@@ -7,7 +7,7 @@ We use custom fonts for jersey names and numbers. This is done by uploading deca
 Note that this is not a tutorial on designing fonts but rather on how to insert a new font into XCAA.
 
 Detailed guides on each type of font are below, but a couple main points that apply to all fonts are:
-- Resize image to max 1024 pixels wide before uploading (for numeric and alphabetical fonts)
+- Resize image to max 1024 pixels wide before uploading (only for numeric and alphabetical fonts)
 - Use RGB (255, 255, 255) (white) for fonts so they can be recolored in-game
 - Recommended to use Inkscape or Illustrator for font outlines instead of paint.net outline tool
 
@@ -19,7 +19,8 @@ Start off with a font you want to make. For this tutorial I will be making NFL V
 
 ![image](https://github.com/cyberplanet1870/xcaa/assets/123999017/15453b54-8cc6-490b-a476-b2e42e8432f7)
 
-First, type your font out as 1234567890 as shown. Then, separate the font into different layers for the main color and any outline(s). 
+First, type your font out as 1234567890 as shown. You should use a large font size and canvas to get the highest level of detail. 
+Then, separate the font into different layers for the main color and any outline(s) if they exist. 
 
 <details>
   <summary>Side note on creating good outlines</summary>
@@ -71,7 +72,30 @@ Repeat this for all the numbers.
 
 ### Alphabetical Fonts
 
+Alphabetical fonts work the same as numeric fonts except you have 28 characters to make (A-Z, -, and .) instead of 10. Because of this, they take fucking forever and I only have a couple made
+that I use for all the teams. I personally don't really care about getting these right so much as the numbers but if you want to make one go right ahead.
 
+Since it's essentially the same process as making numeric fonts, I won't be repeating everything from above. To make an alphabetical font, just type out your font as (including the period):
+
+ABCDEFGHIJKLMNOPQRSTUVWXYZ-.
+
+I HIGHLY recommend using a large font size and canvas (3000+ pixels) since it will need to be resized down to 1024 and will lose more detail than numerical fonts as each individual character is smaller.
+Then, repeat the same steps as the numeric font tutorial, using the AlphabeticalFontTemplate from the [font templates](https://github.com/cyberplanet1870/xcaa/blob/main/assets/font_templates.rbxm).
+
+Here is Varsity Block A:
+
+Original image (3921x276):
+![image](https://github.com/cyberplanet1870/xcaa/assets/123999017/e65e4df4-9466-4b44-b214-be010d7b6516)
+
+Resized image (1024x72):
+![image](https://github.com/cyberplanet1870/xcaa/assets/123999017/4449f23b-13e0-4862-a8d6-aaddf2a8b67c)
+
+Individual layers:
+![image](https://github.com/cyberplanet1870/xcaa/assets/123999017/8c49e857-171d-42e9-987c-a945a5183754)
+![image](https://github.com/cyberplanet1870/xcaa/assets/123999017/dad1d864-a09f-4687-a034-2ec661064140)
+
+Font file:
+![image](https://github.com/cyberplanet1870/xcaa/assets/123999017/6abaf724-4c0c-45a9-8a05-8770a4a2a1d1)
 
 ---
 
