@@ -48,7 +48,7 @@ which works fine, but I prefer to stack the layers as it looks cleaner in my opi
 If you are unsure what I mean by this, scroll down a bit to where I show the separated layers in-game and you will understand.
 
 To layer meshes, imagine separating the image above into layers moving from outside inwards. Blue is the outermost color, so it would be on the bottom layer. 
-Then comes black, then green and white (which do not touch, so they could be on the same height layer). In summary:
+Then comes black, then green and white (which do overlap, so they could be on the same height layer). In summary:
 - Top layer(s): Green/White
 - Middle: Black
 - Bottom: Blue
