@@ -11,6 +11,8 @@ Detailed guides on each type of font are below, but a couple main points that ap
 - Use RGB (255, 255, 255) (white) for fonts so they can be recolored in-game
 - Recommended to use Inkscape or Illustrator for font outlines instead of paint.net outline tool
 
+Also be sure to check out our [font database](https://github.com/cyberplanet1870/xcaa/blob/main/font_database.md) to see if a font has already been created before making one.
+
 ---
 
 ### Numeric Fonts
@@ -132,6 +134,7 @@ note: mention the trick of using layer2 if you need a thicker font but no outlin
 
 ---
 
-### Related Tutorials
+### Related Links
 
 - [Jersey Guide](https://github.com/cyberplanet1870/xcaa/blob/main/jersey_guide.md)
+- [Font Database](https://github.com/cyberplanet1870/xcaa/blob/main/font_database.md)
